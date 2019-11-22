@@ -14,4 +14,4 @@
 ### Verejtje: ###
 Per te vazhduar tutje, ju duhet keto vegla/aplikacione ti keni ne dispozicion.
 
-# JETMIRI E KA NDRYSHUAR #
+# UPDATED #
