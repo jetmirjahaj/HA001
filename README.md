@@ -12,4 +12,5 @@
 5. Gradle - https://gradle.org/install/
 
 ### Verejtje: ###
-Per te vazhduar tutje, ju duhet keto vegla/aplikacione ti keni ne dispozicion.
+Per te vazhduar tutje, ju duhet keto vegla/aplikacione ti keni ne dispozicio!!
+# EDITED 22,11#
